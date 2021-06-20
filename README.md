@@ -1,2 +1,3 @@
-# Sensorization-OpenWeatherMap-App
-Monitoring of environmental parameters: temperature, humidity and ultraviolet index
+# Sensorization-OpenWeatherMap-WebSite
+
+Visit the created WebSite [here](https://www.weathersense.susanavitoria.pt/)
