@@ -7,4 +7,4 @@ Through the OpenWeatherMap API and the OneCall API, information was collected on
 ### Use of Adafruit: 
 Treatmenr of data collected through the creation of several feeds in the Adafruit service, these connected with the API OpenWeatherMap through JavaScript.
 
-![Overall feeds](https://SusanaMarques.github.com/Sensorization-OpenWeatherMap/)
+![Overall feeds](https://SusanaMarques.github.com/Sensorization-OpenWeatherMap/overall_adafruit.png)
