@@ -12,3 +12,8 @@ Treatmenr of data collected through the creation of several feeds in the Adafrui
 ### Use of IFTTT:
 Connection of values received from Adafruit with IFTTT and with an email created to receive notifications.
 Creation of triggers that correspond to sending a notification to weathersenseiata@gmail.com whenever a trigger is triggered.
+
+![Applets](https://github.com/SusanaMarques/Sensorization-OpenWeatherMap/blob/main/Applets_criados.png)
+
+Verification Email:
+![Email](https://github.com/SusanaMarques/Sensorization-OpenWeatherMap/blob/main/Applets_criados.png)
