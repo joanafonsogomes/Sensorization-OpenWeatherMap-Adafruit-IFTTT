@@ -1,5 +1,7 @@
 # Sensorization OpenWeatherMap Adafruit IFTTT
 
+## Pratical assignment of **Ambient Intelligence - Technologies and Applications**
+
 ### **Visit the created site [here](https://www.weathersense.susanavitoria.pt/)**
 
 Through the OpenWeatherMap API and the OneCall API, information was collected on temperature, humidity and UV index, per hour for the next 12 hours on any desired city.
