@@ -20,3 +20,5 @@ Creation of triggers that correspond to sending a notification to weathersenseia
 Verification Email:
 ![Email](https://github.com/SusanaMarques/Sensorization-OpenWeatherMap-Adafruit-IFTTT/blob/main/images/Email.png)
 
+
+###### By [@DxMonteiro](https://github.com/DxMonteiro), [@joanafonsogomes](https://github.com/joanafonsogomes), [@mariajbp](https://github.com/mariajbp) & [@SusanaMarques](https://github.com/SusanaMarques)
